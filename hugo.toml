@@ -1,6 +1,5 @@
-# ===== 基础配置 =====
-# TODO: 上线前把 baseURL 换成你的真实域名，例如 https://blog.example.com/
-baseURL = 'https://your-domain.com/'
+# 正式域名（Porkbun 已注册：lanzhongying.lol，根域绑定 GitHub Pages）
+baseURL = 'https://lanzhongying.lol/'
 locale = 'zh-CN'
 title = '我的博客'          # TODO: 改成你的博客名
 theme = 'PaperMod'
