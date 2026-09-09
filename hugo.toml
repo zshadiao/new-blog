@@ -35,7 +35,7 @@ pygmentsUseClasses = true
 
   [params.homeInfoParams]     # 首页欢迎区
     Title = '欢迎来到我的博客'
-    Content = '这里是我的个人空间，主要记录 [TODO: 你的领域]。\n\n保持好奇，持续输出。'
+    Content = "这里是我的个人空间，主要记录 [TODO: 你的领域]。\n\n保持好奇，持续输出。"
 
   [params.label]
     text = '我的博客'         # 站点左上角 Logo 文字，TODO: 同步修改
