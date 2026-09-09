@@ -1,7 +1,7 @@
 # 正式域名（Porkbun 已注册：lanzhongying.lol，根域绑定 GitHub Pages）
 baseURL = 'https://lanzhongying.lol/'
 locale = 'zh-CN'
-title = '我的博客'          # TODO: 改成你的博客名
+title = '雕某人书坊'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -17,9 +17,9 @@ pygmentsUseClasses = true
 # ===== 主题参数（PaperMod） =====
 [params]
   env = 'production'
-  title = '我的博客'          # TODO: 同步修改博客名
-  description = '个人博客，记录技术、思考与生活'   # TODO: 改成你的站点描述
-  author = '你的名字'         # TODO: 改成你的署名
+  title = '雕某人书坊'
+  description = '分享近况与有趣的书'
+  author = '雕'
   defaultTheme = 'auto'       # auto: 跟随系统深浅色；可选 light / dark
   disableThemeToggle = false
   ShowReadingTime = true
@@ -33,21 +33,21 @@ pygmentsUseClasses = true
   ShowAllPagesInArchive = true
 
   [params.homeInfoParams]     # 首页欢迎区
-    Title = '欢迎来到我的博客'
-    Content = "这里是我的个人空间，主要记录 [TODO: 你的领域]。\n\n保持好奇，持续输出。"
+    Title = '欢迎来到雕某人书坊'
+    Content = "这里是我的个人空间，分享我的近况与一些“有趣”的书。\n\n保持好奇，持续输出。"
 
   [params.label]
-    text = '我的博客'         # 站点左上角 Logo 文字，TODO: 同步修改
+    text = '雕某人书坊'
     iconHeight = 0
 
   # 社交链接：在 name 填平台，url 填你的主页，按需增删
   # 支持 github / twitter / x / mastodon / email 等图标
   [[params.socialIcons]]
     name = 'github'
-    url = 'https://github.com/你的用户名'   # TODO
+    url = 'https://github.com/zshadiao'
   [[params.socialIcons]]
     name = 'email'
-    url = 'mailto:you@example.com'          # TODO
+    url = 'mailto:lanzhongying@gmail.com'
 
   # ===== 顶部导航菜单 =====
   [[menu.main]]

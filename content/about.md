@@ -6,18 +6,16 @@ comments: false
 
 # 关于我
 
-TODO: 在这里介绍你自己——你是谁、做什么、为什么写博客。
+鄙人雕，现会分享些我的近况或者一些"有趣"的书。
 
 ## 关于这个博客
 
-这里记录 [TODO: 你的领域] 相关的内容：
+这里记录我的近况，以及一些"有趣"的书：
 
-- 技术笔记与踩坑记录
-- 阅读与思考
-- 生活随笔
+- 生活近况与随笔
+- 有趣的书与阅读分享
 
 ## 联系我
 
-- 邮箱：TODO
-- GitHub：TODO
-- 其他社交账号：TODO
+- 邮箱：lanzhongying@gmail.com
+- GitHub：https://github.com/zshadiao
