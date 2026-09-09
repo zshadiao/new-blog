@@ -3,6 +3,7 @@
 
 # Hugo 缓存
 /resources/_gen/
+.hugo_build.lock
 
 # 系统文件
 Thumbs.db
